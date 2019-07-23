@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\TableProgram\TableProgram\bin\Debug\TableProgram.exe.config
+C:\Users\admin\source\repos\TableProgram\TableProgram\bin\Debug\TableProgram.exe
+C:\Users\admin\source\repos\TableProgram\TableProgram\bin\Debug\TableProgram.pdb
+C:\Users\admin\source\repos\TableProgram\TableProgram\obj\Debug\TableProgram.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\TableProgram\TableProgram\obj\Debug\TableProgram.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TableProgram\TableProgram\obj\Debug\TableProgram.exe
+C:\Users\admin\source\repos\TableProgram\TableProgram\obj\Debug\TableProgram.pdb
