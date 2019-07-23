@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\StringFunction\StringFunction\bin\Debug\StringFunction.exe.config
+C:\Users\admin\source\repos\StringFunction\StringFunction\bin\Debug\StringFunction.exe
+C:\Users\admin\source\repos\StringFunction\StringFunction\bin\Debug\StringFunction.pdb
+C:\Users\admin\source\repos\StringFunction\StringFunction\obj\Debug\StringFunction.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\StringFunction\StringFunction\obj\Debug\StringFunction.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\StringFunction\StringFunction\obj\Debug\StringFunction.exe
+C:\Users\admin\source\repos\StringFunction\StringFunction\obj\Debug\StringFunction.pdb
